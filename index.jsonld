@@ -1,0 +1,30 @@
+{
+  "@context": "https://w3id.org/did/v1",
+  "id": "did:github:hughsvision",
+  "publicKey": [
+    {
+      "encoding": "application/pgp-keys",
+      "type": "OpenPgpVerificationKey2019",
+      "id": "did:github:hughsvision#kid=3g2Ac969lBWpzbrNjRJmmsCmkWftIKdBSvU_3MhQGqo",
+      "controller": "did:github:hughsvision",
+      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.6.2\r\nComment: https://openpgpjs.org\r\n\r\nxk8EXY3VThMFK4EEAAoCAwTVAOZnPRctG+03/ejbnrHzuLPtmBxnCbffAwVt\r\nK1Wsje9RLewHTCZUaJKaQ3mjz2Slo14nPelUnY4yktkVlQXPzRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsJ3BBATCAAfBQJdjdVOBgsJBwgDAgQVCAoCAxYC\r\nAQIZAQIbAwIeAQAKCRDYc1tlo3SDxso4AP4kBOQBieIutpnRO6sm+HO2z3B9\r\nRs+fMa+X/Im7DwZ3lwEAm9FTbc0XQ5GQvNHJUJf7tQiixcyTlmAcQ3m57Hz0\r\na2zOUwRdjdVOEgUrgQQACgIDBGV0eSUupsGMR4XfBOp+SdJ9Xck39DweO63f\r\nZspQJf/7jRzruCgTL4qFWonQMz7n6Xdjd9CT4Fs7751VOFimHHUDAQgHwmEE\r\nGBMIAAkFAl2N1U4CGwwACgkQ2HNbZaN0g8Y4OAD+KFjNu/Jpio7PITKRJ8mN\r\nn6mFQh+Lj++BPvX4IkGYL+QA/2c2x7+G3oTIpiC6FZq0rq2/O21Fkl7ykrEH\r\npbxaQGmi\r\n=JkFG\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
+    },
+    {
+      "encoding": "application/pgp-keys",
+      "type": "OpenPgpVerificationKey2019",
+      "id": "did:github:hughsvision#kid=4JpKLWOaa4DTjRJPEIUmhwGp_epLxUiqt9Gn3s9puwI",
+      "controller": "did:github:hughsvision",
+      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.6.2\r\nComment: https://openpgpjs.org\r\n\r\nxk8EXY3VThMFK4EEAAoCAwTAK7zufVoq+oibBBR6sguQaJLQPq3uNMUd6+zG\r\n4s0bNcSGW4iX3A18Xj2oYB/JTv7q7hPRZdqlfF3S3TtHNas+zRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsJ3BBATCAAfBQJdjdVOBgsJBwgDAgQVCAoCAxYC\r\nAQIZAQIbAwIeAQAKCRC8GKAFauB8mjvzAP42Axa3hOsnnI0oJ2Z0awDEVQJJ\r\nbYX48Sge8JseiO7uVwEAlA29O/CWmEX0Qyt/Pio0zlgAPVnDkbFs3X1CFzuW\r\nPkTOUwRdjdVOEgUrgQQACgIDBAq01uxsrq14Cz+iKjqlxjULSmyX/x61rmEO\r\n7kAi/YCvAQSHOtcUt7mii+KtlaGkk+Dur3sOkphNMA2q223K9WEDAQgHwmEE\r\nGBMIAAkFAl2N1U4CGwwACgkQvBigBWrgfJpdzQEAwWkIUx921GK3+APv1w5/\r\nwtNCZaGZydV6hOaJUZmHfbkA/jILIKPJd9ZJUDa1Xx02tCJDg+fHM04FzrA3\r\nE0fvdEC0\r\n=6rKh\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
+    }
+  ],
+  "authentication": [],
+  "service": [],
+  "proof": {
+    "type": "OpenPgpSignature2019",
+    "creator": "did:github:hughsvision#kid=3g2Ac969lBWpzbrNjRJmmsCmkWftIKdBSvU_3MhQGqo",
+    "domain": "GitHubDID",
+    "nonce": "d0fb762fe48f56a6147e4ff65a5014e6",
+    "created": "2019-09-27T09:24:30.344Z",
+    "signatureValue": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.6.2\r\nComment: https://openpgpjs.org\r\n\r\nwl4EARMIAAYFAl2N1VIACgkQ2HNbZaN0g8bksQEAngZBPe5UEayMkJmer50v\r\nQUXjn6WUOWI21owue90xm7UBAOfBlxMAbGyk/WtFSV4hqz1r3DA571Gb7APz\r\nHvppvZ2I\r\n=eOT2\r\n-----END PGP SIGNATURE-----\r\n"
+  }
+}
